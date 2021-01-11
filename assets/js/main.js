@@ -1,4 +1,17 @@
 !(function($) {
+
+  // Init AOS
+  function aos_init() {
+    AOS.init({
+      duration: 800,
+      easing: "ease-in-out",
+      once: true
+    });
+  }
+  $(window).on('load', function() {
+    aos_init();
+  });
+
   "use strict";
 
   // Toggle .header-scrolled class to #header when page is scrolled
@@ -147,21 +160,6 @@
         items: 5
       }
     }
-  });
-
-  
-
-
-  // Init AOS
-  function aos_init() {
-    AOS.init({
-      duration: 800,
-      easing: "ease-in-out",
-      once: true
-    });
-  }
-  $(window).on('load', function() {
-    aos_init();
   });
 
 })(jQuery);
