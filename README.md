@@ -1,2 +1,2 @@
-# AmazeBasket
- This is for the Amaze Basket commit
+# AppPage
+ This is for the App Page commit
