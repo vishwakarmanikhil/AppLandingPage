@@ -5,6 +5,9 @@ Welcome to the Mobile App Landing Page project. This landing page is designed to
 ## Overview
 As part of my collaboration with the startup group AmazeBasket during the challenging times of the COVID pandemic, I developed a dynamic and informative landing page for their mobile app. Specializing in the delivery of fresh fruits, vegetables, dairy items, groceries, and daily essentials, AmazeBasket is committed to providing a convenient and reliable service. Users can easily adapt this common landing page to showcase information about any application. It features a responsive design, dynamic content, and visual appeal through the use of various technologies.
 
+## Preview
+Explore website: [![Website Preview](https://img.shields.io/badge/Preview-website-blue)](https://vishwakarmanikhil.github.io/AppLandingPage/)
+
 ## Key Features
 
 - **Informative Sections:** Clearly organized sections highlighting the key offerings and features of the AmazeBasket mobile app.
